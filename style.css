@@ -1,0 +1,38 @@
+p{
+    color:yellow;
+}
+
+h1{
+    color:aqua;
+}
+
+h3{
+    color:crimson;
+}
+
+#encabezado-cuatro{
+    color:green;
+}
+
+#parrafo-1{
+    color:darkolivegreen
+}
+
+.color-red{
+    color:red;
+}
+
+.color-blue{
+    color:blue;
+}
+
+body{
+    background-image: url(https://earlygame.com/uploads/images/_body/Valorant-Chamber-Tips-n-Tricks.jpg);
+    background-size: 700px;
+}
+
+.footer{
+    color:cyan;
+    background-color: darkslategray;
+}
+
